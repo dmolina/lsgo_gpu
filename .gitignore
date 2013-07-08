@@ -14,3 +14,5 @@
 
 # Demo executable
 demo
+# Temporal files
+*.swp
